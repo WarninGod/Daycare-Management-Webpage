@@ -9,8 +9,6 @@
     "preview": "vite preview",
     "type-check": "tsc --noEmit",
     "clean": "rm -rf dist node_modules/.vite",
-    "lint:check": "tsc --noEmit",
-    "format:check": "prettier --check .",
     "serve": "vite preview --port 4173"
   },
   "dependencies": {
