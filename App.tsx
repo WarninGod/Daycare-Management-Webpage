@@ -232,115 +232,47 @@ const Solutions = () => (
 );
 
 const Pricing = () => {
-  const plans = [
-    {
-      name: "Starter",
-      price: "€299",
-      period: "/month",
-      description: "Perfect for organizations with 2-3 locations",
-      features: [
-        "Up to 3 locations",
-        "150 children maximum",
-        "Basic reporting",
-        "Email support",
-        "Parent portal",
-        "Staff scheduling"
-      ],
-      cta: "Start Free Trial",
-      variant: "outline" as const
-    },
-    {
-      name: "Professional",
-      price: "€599",
-      period: "/month",
-      description: "For established multi-site organizations",
-      features: [
-        "Up to 10 locations",
-        "Unlimited children",
-        "Advanced analytics",
-        "Priority support",
-        "Custom branding",
-        "API access",
-        "Dedicated account manager"
-      ],
-      cta: "Request Demo",
-      variant: "primary" as const,
-      popular: true
-    },
-    {
-      name: "Enterprise",
-      price: "Custom",
-      period: "",
-      description: "For large networks and franchises",
-      features: [
-        "Unlimited locations",
-        "White-label options",
-        "Custom integrations",
-        "24/7 phone support",
-        "Training & onboarding",
-        "SLA guarantees",
-        "Compliance consulting"
-      ],
-      cta: "Contact Sales",
-      variant: "secondary" as const
-    }
+  const highlights = [
+    "Custom proposals aligned to your number of locations and staffing model",
+    "Predictable contracts with no hidden add-ons",
+    "Onboarding and training included for every engagement",
+    "EU data hosting and compliance baked into every agreement"
   ];
 
   return (
     <section id="pricing" className="py-20 lg:py-32 bg-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="text-center mb-16">
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div className="mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4">
-            Simple, Transparent Pricing
+            Pricing Tailored to Your Network
           </h2>
-          <p className="text-lg text-slate-600 max-w-2xl mx-auto">
-            Choose the plan that fits your organization. All plans include core features and EU data hosting.
+          <p className="text-lg text-slate-600 max-w-3xl mx-auto">
+            We build a package around your locations, staffing model, and compliance needs. No published tiers, price tags, or calculators—let’s align on what you need first.
           </p>
         </div>
-        
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 lg:gap-6">
-          {plans.map((plan, index) => (
-            <div 
-              key={index} 
-              className={`relative rounded-2xl p-8 border-2 ${
-                plan.popular 
-                  ? 'border-brand-600 shadow-2xl scale-105 bg-white' 
-                  : 'border-slate-200 bg-slate-50'
-              }`}
-            >
-              {plan.popular && (
-                <div className="absolute -top-4 left-1/2 -translate-x-1/2 bg-brand-600 text-white px-4 py-1 rounded-full text-sm font-medium">
-                  Most Popular
-                </div>
-              )}
-              
-              <div className="text-center mb-6">
-                <h3 className="text-2xl font-bold text-slate-900 mb-2">{plan.name}</h3>
-                <p className="text-slate-600 text-sm mb-4">{plan.description}</p>
-                <div className="flex items-end justify-center gap-1">
-                  <span className="text-4xl font-bold text-slate-900">{plan.price}</span>
-                  <span className="text-slate-600 mb-1">{plan.period}</span>
-                </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-left">
+          {highlights.map((item, index) => (
+            <div key={index} className="flex items-start gap-3 p-6 rounded-xl border border-slate-200 bg-slate-50">
+              <div className="bg-brand-100 p-2 rounded-full">
+                <Check size={18} className="text-brand-600" />
               </div>
-              
-              <ul className="space-y-3 mb-8">
-                {plan.features.map((feature, fIndex) => (
-                  <li key={fIndex} className="flex items-start gap-3">
-                    <Check size={20} className="text-brand-600 flex-shrink-0 mt-0.5" />
-                    <span className="text-slate-700">{feature}</span>
-                  </li>
-                ))}
-              </ul>
-              
-              <Button variant={plan.variant} className="w-full justify-center">
-                {plan.cta}
-              </Button>
+              <p className="text-slate-700 leading-relaxed">{item}</p>
             </div>
           ))}
         </div>
-        
-        <p className="text-center text-sm text-slate-500 mt-12">
-          All prices exclude VAT. Annual billing available with 2 months free.
+
+        <div className="mt-12 flex flex-col sm:flex-row gap-4 justify-center">
+          <Button variant="primary" size="lg" className="gap-2">
+            Talk to Sales <ArrowRight size={18} />
+          </Button>
+          <Button variant="outline" size="lg" className="gap-2">
+            Request a Demo
+          </Button>
+        </div>
+
+        <p className="text-sm text-slate-500 mt-8">
+          Share your context and we’ll craft a recommendation—no public pricing tables.
         </p>
       </div>
     </section>
