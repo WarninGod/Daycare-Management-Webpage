@@ -9,7 +9,7 @@
 
 **A professional SaaS landing page for multi-location childcare management**
 
-[Live Demo](http://localhost:3000) • [Report Bug](https://github.com/WarninGod/Daycare-Management-Webpage/issues) • [Request Feature](https://github.com/WarninGod/Daycare-Management-Webpage/issues)
+[Live Demo](https://warningod.me/Daycare-Management-Webpage/) • [Report Bug](https://github.com/WarninGod/Daycare-Management-Webpage/issues) • [Request Feature](https://github.com/WarninGod/Daycare-Management-Webpage/issues)
 
 </div>
 

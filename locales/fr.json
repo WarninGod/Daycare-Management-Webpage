@@ -1,0 +1,145 @@
+{
+  "header": {
+    "solutions": "Solutions",
+    "platform": "Plateforme",
+    "pricing": "Tarification",
+    "compliance": "Conformité",
+    "resources": "Ressources",
+    "login": "Se Connecter",
+    "requestDemo": "Demander une Démo"
+  },
+  "hero": {
+    "badge": "Conforme RGPD • Hébergé dans l'UE • Certifié ISO 27001",
+    "title": "Le système d'exploitation pour",
+    "titleHighlight": "Garde d'enfants multi-sites",
+    "description": "CentraCare centralise la conformité, les opérations et les rapports dans tous vos centres de garde. Conçu spécifiquement pour les organisations belges et européennes de garde d'enfants gérant plusieurs sites.",
+    "requestDemo": "Demander une Démo",
+    "watchVideo": "Regarder la Vidéo (2 min)",
+    "trustedBy": "Approuvé par 120+ organisations de garde d'enfants • 5 000+ enfants • 800+ membres du personnel",
+    "dashboardPreview": "Aperçu du Tableau de Bord"
+  },
+  "features": {
+    "title": "Tout ce dont vous avez besoin pour évoluer",
+    "subtitle": "Conçu spécifiquement pour les organisations de garde d'enfants multi-sites confrontées à la complexité de la gestion centralisée.",
+    "multiSite": {
+      "title": "Gestion Multi-Sites",
+      "description": "Tableau de bord centralisé pour surveiller tous les emplacements en temps réel. Suivez l'occupation, les ratios de personnel et la conformité sur l'ensemble de votre réseau."
+    },
+    "compliance": {
+      "title": "Conformité Automatisée",
+      "description": "Restez prêt pour les audits avec le suivi automatisé des réglementations Kind & Gezin, des certifications du personnel et des protocoles de sécurité."
+    },
+    "scheduling": {
+      "title": "Planification du Personnel",
+      "description": "Planification intelligente qui garantit des ratios personnel-enfant appropriés dans chaque emplacement tout en optimisant les coûts de main-d'œuvre."
+    },
+    "reporting": {
+      "title": "Rapports Unifiés",
+      "description": "Rapports financiers et opérationnels consolidés sur tous les sites. Formats prêts à exporter pour les investisseurs et les régulateurs."
+    },
+    "portal": {
+      "title": "Portail Enfant & Parent",
+      "description": "Enregistrement/départ numérique, rapports quotidiens, photos et facturation. Les parents restent connectés quel que soit l'emplacement qu'ils utilisent."
+    },
+    "attendance": {
+      "title": "Temps & Présence",
+      "description": "Suivi automatisé du temps pour le personnel et les enfants avec options biométriques. Intégration transparente de la paie."
+    }
+  },
+  "solutions": {
+    "badge": "Pour les Organisations en Croissance",
+    "title": "Conçu pour la Complexité Multi-Sites",
+    "description": "La gestion de plusieurs sites de garde d'enfants signifie jongler avec différents personnels, réglementations et attentes des parents. CentraCare regroupe le tout dans un système unifié.",
+    "point1": "Suivi centralisé des qualifications et certifications du personnel",
+    "point2": "Surveillance en temps réel de l'occupation et de la capacité",
+    "point3": "Politiques standardisées sur tous les emplacements",
+    "point4": "Facturation consolidée et rapports financiers",
+    "point5": "Accès aux contacts d'urgence pour l'ensemble du réseau",
+    "cta": "Planifier une Visite Guidée"
+  },
+  "pricing": {
+    "title": "Tarification Adaptée à Votre Réseau",
+    "subtitle": "Nous élaborons un forfait autour de vos emplacements, modèle de personnel et besoins de conformité. Pas de niveaux publiés, d'étiquettes de prix ou de calculateurs—alignons-nous d'abord sur ce dont vous avez besoin.",
+    "highlight1": "Propositions personnalisées alignées sur votre nombre d'emplacements et modèle de personnel",
+    "highlight2": "Contrats prévisibles sans frais cachés",
+    "highlight3": "Intégration et formation incluses dans chaque engagement",
+    "highlight4": "Hébergement de données dans l'UE et conformité intégrées dans chaque accord",
+    "talkToSales": "Parler aux Ventes",
+    "requestDemo": "Demander une Démo",
+    "footer": "Partagez votre contexte et nous élaborerons une recommandation—pas de tableaux de prix publics."
+  },
+  "security": {
+    "badge": "Sécurité & Conformité",
+    "title": "Sécurité de Niveau Entreprise",
+    "subtitle": "Vos données et celles de vos familles protégées avec une sécurité de niveau bancaire et une conformité RGPD complète.",
+    "gdpr": {
+      "title": "Conforme RGPD",
+      "description": "Conformité totale aux réglementations de protection des données de l'UE"
+    },
+    "iso": {
+      "title": "ISO 27001",
+      "description": "Gestion certifiée de la sécurité de l'information"
+    },
+    "dataCenter": {
+      "title": "Centres de Données UE",
+      "description": "Toutes les données stockées à Francfort, Allemagne"
+    },
+    "audits": {
+      "title": "Audits Réguliers",
+      "description": "Audits de sécurité par des tiers trimestriels"
+    },
+    "uptime": "SLA de Disponibilité",
+    "encryption": "Chiffrement AES",
+    "monitoring": "Surveillance de Sécurité"
+  },
+  "resources": {
+    "title": "Ressources & Support",
+    "subtitle": "Tout ce dont vous avez besoin pour commencer et réussir avec CentraCare.",
+    "documentation": {
+      "title": "Documentation",
+      "description": "Guides complets, documentation API et tutoriels pour tirer le meilleur parti de CentraCare.",
+      "cta": "Parcourir les Docs"
+    },
+    "community": {
+      "title": "Communauté",
+      "description": "Rejoignez notre communauté de professionnels de la garde d'enfants partageant les meilleures pratiques et idées.",
+      "cta": "Rejoindre la Communauté"
+    },
+    "caseStudies": {
+      "title": "Études de Cas",
+      "description": "Découvrez comment des organisations comme la vôtre réussissent avec CentraCare.",
+      "cta": "Lire les Histoires"
+    }
+  },
+  "cta": {
+    "title": "Prêt à Centraliser Vos Opérations?",
+    "subtitle": "Rejoignez 120+ organisations de garde d'enfants multi-sites qui font confiance à CentraCare pour gérer leurs opérations.",
+    "requestDemo": "Demander une Démo",
+    "scheduleCall": "Planifier un Appel",
+    "footer": "Essai gratuit de 30 jours • Aucune carte de crédit requise • Configuration en moins d'1 heure"
+  },
+  "cookie": {
+    "title": "Nous respectons votre vie privée",
+    "description": "Nous utilisons des cookies pour améliorer votre expérience de navigation et analyser notre trafic en conformité avec le RGPD. Les données sont stockées en toute sécurité dans l'UE.",
+    "customize": "Personnaliser",
+    "acceptAll": "Tout Accepter"
+  },
+  "footer": {
+    "tagline": "Le système d'exploitation de premier plan pour les organisations de garde d'enfants multi-sites en Belgique et dans l'UE.",
+    "platform": "Plateforme",
+    "multiSite": "Gestion Multi-Sites",
+    "compliance": "Conformité & Audit",
+    "scheduling": "Planification du Personnel",
+    "parentPortal": "Portail Parents",
+    "company": "Entreprise",
+    "about": "À Propos",
+    "careers": "Carrières",
+    "contact": "Contact",
+    "privacy": "Politique de Confidentialité",
+    "contactSection": "Contact",
+    "address": "Rue de la Loi 15",
+    "city": "1000 Bruxelles, Belgique",
+    "copyright": "CentraCare Systems. Tous droits réservés.",
+    "complianceFooter": "Conforme RGPD • Hébergé dans l'UE (Francfort)"
+  }
+}

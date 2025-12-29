@@ -1,20 +1,22 @@
 import React, { useState, useEffect } from 'react';
+import { useTranslation } from 'react-i18next';
 import { Menu, X, LayoutGrid, Globe, ChevronDown } from 'lucide-react';
 import Button from './Button';
 import { NavItem } from '../types';
 
-const navItems: NavItem[] = [
-  { label: 'Solutions', href: '#solutions' },
-  { label: 'Platform', href: '#features' },
-  { label: 'Pricing', href: '#pricing' },
-  { label: 'Compliance', href: '#security' },
-  { label: 'Resources', href: '#resources' },
-];
-
 const Header: React.FC = () => {
+  const { t, i18n } = useTranslation();
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
-  const [activeLang, setActiveLang] = useState('EN');
+  const [activeLang, setActiveLang] = useState(i18n.language.toUpperCase());
+
+  const navItems: NavItem[] = [
+    { label: t('header.solutions'), href: '#solutions' },
+    { label: t('header.platform'), href: '#features' },
+    { label: t('header.pricing'), href: '#pricing' },
+    { label: t('header.compliance'), href: '#security' },
+    { label: t('header.resources'), href: '#resources' },
+  ];
 
   useEffect(() => {
     const handleScroll = () => {
@@ -25,9 +27,10 @@ const Header: React.FC = () => {
   }, []);
 
   const handleLanguageChange = (lang: string) => {
+    const lowerLang = lang.toLowerCase();
+    i18n.changeLanguage(lowerLang);
     setActiveLang(lang);
     console.log(`Language switched to: ${lang}`);
-    // You can add i18n logic here later
   };
 
   const handleLogin = () => {
@@ -96,8 +99,8 @@ const Header: React.FC = () => {
                   FR
                 </button>
              </div>
-             <Button variant="ghost" size="sm" onClick={handleLogin}>Log In</Button>
-            <Button variant="primary" size="sm" onClick={handleDemo}>Request a Demo</Button>
+             <Button variant="ghost" size="sm" onClick={handleLogin}>{t('header.login')}</Button>
+            <Button variant="primary" size="sm" onClick={handleDemo}>{t('header.requestDemo')}</Button>
           </div>
 
           {/* Mobile Menu Button */}
@@ -158,8 +161,8 @@ const Header: React.FC = () => {
                 </button>
             </div>
             <div className="pt-2 space-y-3">
-              <Button variant="primary" className="w-full justify-center" onClick={handleDemo}>Request a Demo</Button>
-              <Button variant="outline" className="w-full justify-center" onClick={handleLogin}>Log In</Button>
+              <Button variant="primary" className="w-full justify-center" onClick={handleDemo}>{t('header.requestDemo')}</Button>
+              <Button variant="outline" className="w-full justify-center" onClick={handleLogin}>{t('header.login')}</Button>
             </div>
           </div>
         </div>

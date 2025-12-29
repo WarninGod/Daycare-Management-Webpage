@@ -1,0 +1,145 @@
+{
+  "header": {
+    "solutions": "Solutions",
+    "platform": "Platform",
+    "pricing": "Pricing",
+    "compliance": "Compliance",
+    "resources": "Resources",
+    "login": "Log In",
+    "requestDemo": "Request a Demo"
+  },
+  "hero": {
+    "badge": "GDPR Compliant • EU Hosted • ISO 27001 Certified",
+    "title": "The Operating System for",
+    "titleHighlight": "Multi-Location Childcare",
+    "description": "CentraCare centralizes compliance, operations, and reporting across all your daycare locations. Built specifically for Belgian and EU childcare organizations managing multiple sites.",
+    "requestDemo": "Request a Demo",
+    "watchVideo": "Watch Video (2 min)",
+    "trustedBy": "Trusted by 120+ childcare organizations • 5,000+ children • 800+ staff members",
+    "dashboardPreview": "Dashboard Preview"
+  },
+  "features": {
+    "title": "Everything You Need to Scale",
+    "subtitle": "Purpose-built for multi-location childcare organizations facing the complexity of centralized management.",
+    "multiSite": {
+      "title": "Multi-Site Management",
+      "description": "Centralized dashboard to monitor all locations in real-time. Track occupancy, staff ratios, and compliance across your entire network."
+    },
+    "compliance": {
+      "title": "Automated Compliance",
+      "description": "Stay audit-ready with automated tracking of Kind & Gezin regulations, staff certifications, and safety protocols."
+    },
+    "scheduling": {
+      "title": "Staff Scheduling",
+      "description": "Intelligent scheduling that ensures proper staff-to-child ratios at every location while optimizing labor costs."
+    },
+    "reporting": {
+      "title": "Unified Reporting",
+      "description": "Consolidated financial and operational reports across all sites. Export-ready formats for investors and regulators."
+    },
+    "portal": {
+      "title": "Child & Parent Portal",
+      "description": "Digital check-in/out, daily reports, photos, and billing. Parents stay connected no matter which location they use."
+    },
+    "attendance": {
+      "title": "Time & Attendance",
+      "description": "Automated time tracking for staff and children with biometric options. Seamless payroll integration."
+    }
+  },
+  "solutions": {
+    "badge": "For Growing Organizations",
+    "title": "Built for Multi-Location Complexity",
+    "description": "Managing multiple childcare locations means juggling different staff, regulations, and parent expectations. CentraCare brings it all into one unified system.",
+    "point1": "Centralized staff credentials and certification tracking",
+    "point2": "Real-time occupancy and capacity monitoring",
+    "point3": "Standardized policies across all locations",
+    "point4": "Consolidated billing and financial reporting",
+    "point5": "Emergency contact access for entire network",
+    "cta": "Schedule a Walkthrough"
+  },
+  "pricing": {
+    "title": "Pricing Tailored to Your Network",
+    "subtitle": "We build a package around your locations, staffing model, and compliance needs. No published tiers, price tags, or calculators—let's align on what you need first.",
+    "highlight1": "Custom proposals aligned to your number of locations and staffing model",
+    "highlight2": "Predictable contracts with no hidden add-ons",
+    "highlight3": "Onboarding and training included for every engagement",
+    "highlight4": "EU data hosting and compliance baked into every agreement",
+    "talkToSales": "Talk to Sales",
+    "requestDemo": "Request a Demo",
+    "footer": "Share your context and we'll craft a recommendation—no public pricing tables."
+  },
+  "security": {
+    "badge": "Security & Compliance",
+    "title": "Enterprise-Grade Security",
+    "subtitle": "Your data and your families' data protected with bank-level security and full GDPR compliance.",
+    "gdpr": {
+      "title": "GDPR Compliant",
+      "description": "Full compliance with EU data protection regulations"
+    },
+    "iso": {
+      "title": "ISO 27001",
+      "description": "Certified information security management"
+    },
+    "dataCenter": {
+      "title": "EU Data Centers",
+      "description": "All data stored in Frankfurt, Germany"
+    },
+    "audits": {
+      "title": "Regular Audits",
+      "description": "Third-party security audits quarterly"
+    },
+    "uptime": "Uptime SLA",
+    "encryption": "AES Encryption",
+    "monitoring": "Security Monitoring"
+  },
+  "resources": {
+    "title": "Resources & Support",
+    "subtitle": "Everything you need to get started and succeed with CentraCare.",
+    "documentation": {
+      "title": "Documentation",
+      "description": "Comprehensive guides, API docs, and tutorials to help you get the most out of CentraCare.",
+      "cta": "Browse Docs"
+    },
+    "community": {
+      "title": "Community",
+      "description": "Join our community of childcare professionals sharing best practices and insights.",
+      "cta": "Join Community"
+    },
+    "caseStudies": {
+      "title": "Case Studies",
+      "description": "Learn how organizations like yours are succeeding with CentraCare.",
+      "cta": "Read Stories"
+    }
+  },
+  "cta": {
+    "title": "Ready to Centralize Your Operations?",
+    "subtitle": "Join 120+ multi-location childcare organizations that trust CentraCare to manage their operations.",
+    "requestDemo": "Request a Demo",
+    "scheduleCall": "Schedule a Call",
+    "footer": "Free 30-day trial • No credit card required • Setup in under 1 hour"
+  },
+  "cookie": {
+    "title": "We value your privacy",
+    "description": "We use cookies to enhance your browsing experience and analyze our traffic in compliance with GDPR. Data is stored securely within the EU.",
+    "customize": "Customize",
+    "acceptAll": "Accept All"
+  },
+  "footer": {
+    "tagline": "The premier operating system for multi-location childcare organizations in Belgium and the EU.",
+    "platform": "Platform",
+    "multiSite": "Multi-Site Management",
+    "compliance": "Compliance & Audit",
+    "scheduling": "Staff Scheduling",
+    "parentPortal": "Parent Portal",
+    "company": "Company",
+    "about": "About Us",
+    "careers": "Careers",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "contactSection": "Contact",
+    "address": "Rue de la Loi 15",
+    "city": "1000 Brussels, Belgium",
+    "copyright": "CentraCare Systems. All rights reserved.",
+    "complianceFooter": "GDPR Compliant • Hosted in EU (Frankfurt)"
+  }
+}

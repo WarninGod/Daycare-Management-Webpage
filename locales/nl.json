@@ -1,0 +1,145 @@
+{
+  "header": {
+    "solutions": "Oplossingen",
+    "platform": "Platform",
+    "pricing": "Prijzen",
+    "compliance": "Naleving",
+    "resources": "Bronnen",
+    "login": "Inloggen",
+    "requestDemo": "Demo Aanvragen"
+  },
+  "hero": {
+    "badge": "AVG-conform • EU-gehost • ISO 27001-gecertificeerd",
+    "title": "Het besturingssysteem voor",
+    "titleHighlight": "Kinderopvang met meerdere locaties",
+    "description": "CentraCare centraliseert naleving, operaties en rapportage over al uw kinderopvanglocaties. Speciaal ontwikkeld voor Belgische en EU-kinderopvangorganisaties met meerdere vestigingen.",
+    "requestDemo": "Demo Aanvragen",
+    "watchVideo": "Bekijk Video (2 min)",
+    "trustedBy": "Vertrouwd door 120+ kinderopvangorganisaties • 5.000+ kinderen • 800+ personeelsleden",
+    "dashboardPreview": "Dashboard Voorbeeld"
+  },
+  "features": {
+    "title": "Alles wat u nodig heeft om te schalen",
+    "subtitle": "Speciaal gebouwd voor kinderopvangorganisaties met meerdere locaties die de complexiteit van gecentraliseerd beheer onder ogen zien.",
+    "multiSite": {
+      "title": "Multi-Site Beheer",
+      "description": "Gecentraliseerd dashboard om alle locaties in realtime te monitoren. Volg bezetting, personeelsratio's en naleving over uw hele netwerk."
+    },
+    "compliance": {
+      "title": "Geautomatiseerde Naleving",
+      "description": "Blijf controle-klaar met geautomatiseerde tracking van Kind & Gezin regelgeving, personeelscertificaten en veiligheidsprotocollen."
+    },
+    "scheduling": {
+      "title": "Personeelsplanning",
+      "description": "Intelligente planning die zorgt voor juiste personeels-kind-ratio's op elke locatie terwijl arbeidskosten worden geoptimaliseerd."
+    },
+    "reporting": {
+      "title": "Uniforme Rapportage",
+      "description": "Geconsolideerde financiële en operationele rapporten over alle vestigingen. Export-klare formaten voor investeerders en toezichthouders."
+    },
+    "portal": {
+      "title": "Kind & Ouder Portaal",
+      "description": "Digitaal in-/uitchecken, dagelijkse rapporten, foto's en facturering. Ouders blijven verbonden ongeacht welke locatie ze gebruiken."
+    },
+    "attendance": {
+      "title": "Tijd & Aanwezigheid",
+      "description": "Geautomatiseerde tijdregistratie voor personeel en kinderen met biometrische opties. Naadloze salarisadministratie-integratie."
+    }
+  },
+  "solutions": {
+    "badge": "Voor Groeiende Organisaties",
+    "title": "Gebouwd voor Multi-Locatie Complexiteit",
+    "description": "Het beheren van meerdere kinderopvanglocaties betekent jongleren met verschillende personeelsleden, regelgeving en ouderverwachtingen. CentraCare brengt het allemaal samen in één uniform systeem.",
+    "point1": "Gecentraliseerde personeelsgegevens en certificeringstracking",
+    "point2": "Realtime bezettings- en capaciteitsmonitoring",
+    "point3": "Gestandaardiseerd beleid over alle locaties",
+    "point4": "Geconsolideerde facturering en financiële rapportage",
+    "point5": "Noodcontact toegang voor hele netwerk",
+    "cta": "Plan een Rondleiding"
+  },
+  "pricing": {
+    "title": "Prijzen op Maat van Uw Netwerk",
+    "subtitle": "We bouwen een pakket rond uw locaties, personeelsmodel en nalevingsbehoeften. Geen gepubliceerde niveaus, prijskaartjes of calculators—laten we eerst afstemmen op wat u nodig heeft.",
+    "highlight1": "Aangepaste voorstellen afgestemd op uw aantal locaties en personeelsmodel",
+    "highlight2": "Voorspelbare contracten zonder verborgen toeslagen",
+    "highlight3": "Onboarding en training inbegrepen bij elke overeenkomst",
+    "highlight4": "EU-datahosting en naleving ingebakken in elke overeenkomst",
+    "talkToSales": "Praat met Verkoop",
+    "requestDemo": "Demo Aanvragen",
+    "footer": "Deel uw context en we maken een aanbeveling—geen openbare prijstabellen."
+  },
+  "security": {
+    "badge": "Beveiliging & Naleving",
+    "title": "Bedrijfsbeveiliging",
+    "subtitle": "Uw gegevens en de gegevens van uw families beschermd met bankniveau beveiliging en volledige AVG-naleving.",
+    "gdpr": {
+      "title": "AVG-conform",
+      "description": "Volledige naleving van EU-gegevensbeschermingsregels"
+    },
+    "iso": {
+      "title": "ISO 27001",
+      "description": "Gecertificeerd informatiebeveiliging management"
+    },
+    "dataCenter": {
+      "title": "EU Datacenters",
+      "description": "Alle gegevens opgeslagen in Frankfurt, Duitsland"
+    },
+    "audits": {
+      "title": "Regelmatige Audits",
+      "description": "Kwartaallijkse beveiligingsaudits door derden"
+    },
+    "uptime": "Uptime SLA",
+    "encryption": "AES Encryptie",
+    "monitoring": "Beveiligingsmonitoring"
+  },
+  "resources": {
+    "title": "Bronnen & Ondersteuning",
+    "subtitle": "Alles wat u nodig heeft om te starten en te slagen met CentraCare.",
+    "documentation": {
+      "title": "Documentatie",
+      "description": "Uitgebreide gidsen, API-docs en tutorials om het meeste uit CentraCare te halen.",
+      "cta": "Bekijk Docs"
+    },
+    "community": {
+      "title": "Gemeenschap",
+      "description": "Sluit u aan bij onze gemeenschap van kinderopvangprofessionals die best practices en inzichten delen.",
+      "cta": "Word Lid"
+    },
+    "caseStudies": {
+      "title": "Case Studies",
+      "description": "Leer hoe organisaties zoals de uwe succesvol zijn met CentraCare.",
+      "cta": "Lees Verhalen"
+    }
+  },
+  "cta": {
+    "title": "Klaar om Uw Operaties te Centraliseren?",
+    "subtitle": "Sluit u aan bij 120+ kinderopvangorganisaties met meerdere locaties die CentraCare vertrouwen om hun operaties te beheren.",
+    "requestDemo": "Demo Aanvragen",
+    "scheduleCall": "Plan een Gesprek",
+    "footer": "Gratis 30-dagen proefperiode • Geen creditcard vereist • Instelling in minder dan 1 uur"
+  },
+  "cookie": {
+    "title": "We waarderen uw privacy",
+    "description": "We gebruiken cookies om uw surfervaring te verbeteren en ons verkeer te analyseren in overeenstemming met AVG. Gegevens worden veilig opgeslagen binnen de EU.",
+    "customize": "Aanpassen",
+    "acceptAll": "Accepteer Alles"
+  },
+  "footer": {
+    "tagline": "Het eerste besturingssysteem voor kinderopvangorganisaties met meerdere locaties in België en de EU.",
+    "platform": "Platform",
+    "multiSite": "Multi-Site Beheer",
+    "compliance": "Naleving & Audit",
+    "scheduling": "Personeelsplanning",
+    "parentPortal": "Ouderportaal",
+    "company": "Bedrijf",
+    "about": "Over Ons",
+    "careers": "Carrières",
+    "contact": "Contact",
+    "privacy": "Privacybeleid",
+    "contactSection": "Contact",
+    "address": "Wetstraat 15",
+    "city": "1000 Brussel, België",
+    "copyright": "CentraCare Systems. Alle rechten voorbehouden.",
+    "complianceFooter": "AVG-conform • Gehost in EU (Frankfurt)"
+  }
+}
