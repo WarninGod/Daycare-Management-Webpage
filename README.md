@@ -40,6 +40,13 @@ CentraCare is a modern, responsive landing page designed for multi-site childcar
 - ✅ Component-based architecture
 - ✅ Hot module replacement (HMR)
 
+## 📚 Documentation
+
+- 🚀 **[Quick Start Guide](./QUICKSTART.md)** - Get running in 5 minutes
+- 📖 **[Development Guide](./DEVELOPMENT.md)** - Detailed development documentation
+- 🛠️ **[Capabilities](./CAPABILITIES.md)** - What we can help you with
+- 🤝 **[Contributing Guide](./CONTRIBUTING.md)** - How to contribute to the project
+
 ## 🚀 Quick Start
 
 ### Prerequisites
