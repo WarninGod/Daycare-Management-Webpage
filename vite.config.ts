@@ -16,8 +16,9 @@ export default defineConfig(({ mode }) => {
       },
       plugins: [react()],
       define: {
-        'process.env.API_KEY': JSON.stringify(env.GEMINI_API_KEY),
-        'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY)
+        // SECURITY: Do NOT expose API keys to client-side code
+        // Use a backend proxy instead for sensitive API calls
+        'process.env.VITE_APP_ENV': JSON.stringify(env.VITE_APP_ENV || 'development')
       },
       resolve: {
         alias: {
